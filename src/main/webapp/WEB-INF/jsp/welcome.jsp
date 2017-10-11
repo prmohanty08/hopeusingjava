@@ -13,7 +13,8 @@ body, html {
 
 .bgimg {
     /* Background image */
-    background-image: url('/w3images/forestbridge.jpg');
+    /* background-image: url('/w3images/forestbridge.jpg'); */
+    background: linear-gradient(110deg, #fdcd3b 60%, #ffed4b 60%);
     /* Full-screen */
     height: 100%;
     /* Center the background image */
